@@ -1,4 +1,4 @@
-package com.andrey.practical.task1;
+package com.andrey.practical.task2;
 
 public class Main {
 
