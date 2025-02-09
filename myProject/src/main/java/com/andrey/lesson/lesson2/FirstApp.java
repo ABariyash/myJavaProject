@@ -1,4 +1,4 @@
-package com.andrey.lesson2;
+package com.andrey.lesson.lesson2;
 
 /**
  * First JAVA program.
